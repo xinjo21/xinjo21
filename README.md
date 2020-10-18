@@ -1,9 +1,9 @@
 
 _readme still under development_
 
-## Hi! I am El-Razin Jo with a psuedonym of xinjo21 👋🏻
+## 👋🏻 Hi! I am El-Razin Jo with a psuedonym of xinjo21 
 
-## About Me 📑
+## 📑 About Me 
     - Studying Bachelor of Science in Information Technology in Western Mindanao State University
     - Based on Zamboanga City, Philippines
 
@@ -16,7 +16,7 @@ Connect with me through:
 
 <br/>
 
-### Language and Tools:
+### ⚙ Language and Tools:
     - HTML
     - CSS
     - JavaScript
@@ -32,7 +32,7 @@ Connect with me through:
 
 <br/>
 
-### Graphic Design tools:
+### 💻 Graphic Design tools:
     - Adobe Photoshop
     - Adobe Illustrator
     - Adobe Premiere Pro
@@ -42,7 +42,7 @@ Connect with me through:
 
 <br/>
 
-### PC Equipments:
+### ⌨ PC Equipments:
     Monitor - Asus VZ239
     Keyboard - RAKK Kimat XT2
     Mouse - A4Tech(Legendary mouse)
