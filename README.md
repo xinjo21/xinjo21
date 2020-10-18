@@ -1,7 +1,7 @@
 
-# Hi! I am El-Razin Jo with a psuedonym of xinjo21
+## Hi! I am El-Razin Jo with a psuedonym of xinjo21
 
-# About Me
+## About Me
     - Studying Bachelor of Science in Information Technology in Western Mindanao State University
     - Based on Zamboanga City, Philippines
 
