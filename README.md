@@ -1,57 +1,22 @@
+### 👋🏻 Wasupp! I am El-Razin Jo `xinjo21`
+Full stack web developer and a rusty graphic designer
+Based in Zamboanga City, Philippines
 
-_readme still under development_
+### 📑 About Me 
+Graduate of Bachelor of Science in Information Technology
+Based on Zamboanga City, Philippines
 
-## 👋🏻 Hi! I am El-Razin Jo with a psuedonym of xinjo21 
+If you wish to connect with me, heres my [LinkedIn](https://www.linkedin.com/in/elrazinjo/) or my [E-mail](mailto:elrazinmjo@gmail.com)
 
-## 📑 About Me 
-    - Studying Bachelor of Science in Information Technology in Western Mindanao State University
-    - Based on Zamboanga City, Philippines
-
-<br/>
-
-Connect with me through:
-[facebook]
-[twitter]
-[behance]
-
-<br/>
-
-### ⚙ Language and Tools:
-    - HTML
-    - CSS
-    - JavaScript
-    - React
-
-    - Assembly Language
-    - Python
-    
-    - Flutter
-
-    - Git
-    - Visual Studio Code
-
-<br/>
+### ⚙️ Technologies/Language I utilize:
+- TypeScript/Javascipt
+- Python
+- ~~Assembly Language~~ *yup scratch that off cause I cant `INT 10h` assembly anymore* 😉
+- ReactJS/NextJS
+- NodeJS
+- ExpressJS/NestJS
 
 ### 💻 Graphic Design tools:
-    - Adobe Photoshop
-    - Adobe Illustrator
-    - Adobe Premiere Pro
-    - Adobe After Effects
-    - Adobe XD
-    - Figma
-
-<br/>
-
-### ⌨ PC Equipments:
-    Monitor - Asus VZ239
-    Keyboard - RAKK Kimat XT2
-    Mouse - A4Tech(Legendary mouse)
-    Pentabled - Wacom Intous Art Small
-
-
-<br/>
-<br/>
-
-[facebook]: https://fb.com/xinjo21
-[twitter]: https://twitter.com/xinjo21
-[behance]: https://www.behance.net/xinjo21
+- Adobe Photoshop
+- Adobe Illustrator
+- Figma
