@@ -10,7 +10,6 @@ If you wish to connect with me, [LinkedIn](https://www.linkedin.com/in/elrazinjo
 ### ⚙️ Technologies/Language I utilize:
 - TypeScript/Javascipt
 - Python
-- ~~Assembly Language~~ *yup scratch that off cause I cant `INT 10h` assembly anymore* 😉
 - ReactJS/NextJS
 - NodeJS
 - ExpressJS/NestJS
